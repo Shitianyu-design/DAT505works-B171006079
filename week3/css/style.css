@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#showjinshu{
+  width:50px;
+  height: 50px;
+  background: url("jinshu.jpg") no-repeat;
+}
+#showmuwen{
+  width:50px;
+  height: 50px;
+  background: url("muwen.jpg") no-repeat;
+}
+#showxiu{
+  width:50px;
+  height: 50px;
+  background: url("xiu.jpg") no-repeat;
+}
